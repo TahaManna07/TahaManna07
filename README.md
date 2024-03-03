@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANNA Taha Souhail</h1>
 <h3 align="center">A passionate Backend developer from Morroco</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBudGhnMDM4cml1YmFwZTBnZWp3N2JmcDk4b2p6NXJ2ZmthcTNudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahamanna07&label=Profile%20views&color=0e75b6&style=flat" alt="tahamanna07" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning Models**
