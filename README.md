@@ -1,4 +1,4 @@
-[![MasterHead]https://github.com/TahaManna07/TahaManna07/assets/43857744/2ddd4a50-0a78-44e9-bad5-837afcd1cf4e()](https://tmanna9.wixsite.com/tahamanna)
+[![MasterHead](https://github.com/TahaManna07/TahaManna07/assets/43857744/2ddd4a50-0a78-44e9-bad5-837afcd1cf4e)](https://tmanna9.wixsite.com/tahamanna)
 
 
 
