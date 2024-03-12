@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [TahaManna07](https://github.com/TahaManna07?tab=repositories)
 
-#- 📝 I regularly write articles on [https://www.researchgate.net/profile/Taha-Manna](https://www.researchgate.net/profile/Taha-Manna)
+<!--- 📝 I regularly write articles on [https://www.researchgate.net/profile/Taha-Manna](https://www.researchgate.net/profile/Taha-Manna)-->
 
 - 📫 How to reach me **123somanna@gmail.com**
 
