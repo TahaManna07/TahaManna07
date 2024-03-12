@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **about Distributed Systems & Artificial Intelligence in my Master's program**
 
-- 👨‍💻 All of my projects are available at [https://tmanna9.wixsite.com/tahamanna](https://tmanna9.wixsite.com/tahamanna)
+- 👨‍💻 All of my projects are available at [TahaManna07](https://tmanna9.wixsite.com/tahamanna)
 
-- 📝 I regularly write articles on [https://www.researchgate.net/profile/Taha-Manna](https://www.researchgate.net/profile/Taha-Manna)
+###- 📝 I regularly write articles on [https://www.researchgate.net/profile/Taha-Manna](https://www.researchgate.net/profile/Taha-Manna)
 
 - 📫 How to reach me **123somanna@gmail.com**
 
