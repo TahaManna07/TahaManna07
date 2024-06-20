@@ -16,7 +16,7 @@
 
 <!--- 📝 I regularly write articles on [https://www.researchgate.net/profile/Taha-Manna](https://www.researchgate.net/profile/Taha-Manna)-->
 
-- 📫 How to reach me **123somanna@gmail.com**
+- 📫 How to reach me **mannatahasouhail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
