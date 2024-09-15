@@ -43,4 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahamanna07&show_icons=true&locale=en" alt="tahamanna07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahamanna07&" alt="tahamanna07" /></p>
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaManna07&layout=compact&langs_count=5&hide=javascript,html&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
