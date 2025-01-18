@@ -1,12 +1,12 @@
 <!--[![MasterHead](https://github.com/TahaManna07/TahaManna07/assets/43857744/2ddd4a50-0a78-44e9-bad5-837afcd1cf4e)](https://tmanna9.wixsite.com/tahamanna)-->
 
 <h1 align="center">Hi 👋, I'm MANNA Taha Souhail</h1>
-<h3 align="center">A passionate Developer Java | Spring, Angular, from Morocco</h3>
+<h3 align="center">JAVA Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBudGhnMDM4cml1YmFwZTBnZWp3N2JmcDk4b2p6NXJ2ZmthcTNudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahamanna07&label=Profile%20views&color=0e75b6&style=flat" alt="tahamanna07" /> </p>
 
-- 🔭 I’m currently working on ** AI Projects**
+- 🔭 I’m currently working on AI Projects
 
 - 🌱 I’m currently learning **about Distributed Systems & Artificial Intelligence in my Master's program**
 
