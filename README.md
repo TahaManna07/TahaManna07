@@ -44,6 +44,7 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power bi" width="40" height="40"/> </a>
 </p>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahamanna07&show_icons=true&locale=en&layout=compact" alt="tahamanna07" /></p>
 
