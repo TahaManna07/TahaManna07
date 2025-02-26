@@ -48,6 +48,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahamanna07&show_icons=true&locale=en&layout=compact" alt="tahamanna07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahamanna07&show_icons=true&locale=en" alt="tahamanna07" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahamanna07&langs_count=8&layout=compact&exclude_repo=NomDuRepoJupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahamanna07&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
