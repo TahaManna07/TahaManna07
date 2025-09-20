@@ -46,6 +46,6 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamanna07&langs_count=6&layout=compact&hide=jupyter%20notebook,html" alt="Top Languages"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahamanna07&show_icons=true&locale=en" alt="GitHub Stats"/></p>
+
 
 
